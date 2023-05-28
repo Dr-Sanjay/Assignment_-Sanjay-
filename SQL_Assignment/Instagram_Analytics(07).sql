@@ -1,3 +1,6 @@
+*******************************************INSTAGRAM USER ANALYTICS**********************************************
+
+
 -- A) Marketing: The marketing team wants to launch some campaigns, and they need your help with the following
 
 -- Rewarding Most Loyal Users: People who have been using the platform for the longest time.
