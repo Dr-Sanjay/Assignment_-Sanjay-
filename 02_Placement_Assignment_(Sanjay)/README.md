@@ -5,4 +5,4 @@
 - [03).-Machine Learning Solutions]("Sanajy")
 - [04).-Deep Learning Solutions](https://github.com/Dr-Sanjay/Assignment_Sanjay/blob/main/02_Placement_Assignment_(Sanjay)/04_Deep_Learning_Solutions.ipynb)
 - [05).-NLP Solutions](https://github.com/Dr-Sanjay/Assignment_Sanjay/blob/main/02_Placement_Assignment_(Sanjay)/05_NLP_Solutions.ipynb)
-- [06). Computer Vision Solutions]()
+- [06). Computer Vision Solutions](https://github.com/Dr-Sanjay/Assignment_Sanjay/blob/main/02_Placement_Assignment_(Sanjay)/06_Computer_Vision_Solutions.ipynb)
