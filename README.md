@@ -6,4 +6,4 @@ Assignment for Placements
 - [All Python Questions]((https://github.com/Dr-Sanjay/Assignment_Sanjay/tree/main/01)(-PPT)))
 - [02).Placement Assignment](https://github.com/Dr-Sanjay/Assignment_Sanjay/tree/main/PPT)
 - [Sanjay***("3Star")***]("Sanajy")
-- [Sanjay Singh ***(10/10)***]()
+- [Sanjay Singh ***(10/10)***](https://github.com/Dr-Sanjay/Assignment_Sanjay/tree/main/07-Python_Solutions)
